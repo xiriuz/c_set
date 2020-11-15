@@ -1,0 +1,13 @@
+# haha
+BasedOnStyle: Microsoft
+ColumnLimit: 100
+# align
+AlignConsecutiveAssignments: true
+AlignConsecutiveMacros: true
+AlignConsecutiveDeclarations: true
+#AlignConsecutiveBitFields: true
+
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+IndentCaseLabels: false
