@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "D2Coding ligature, Consolas, Courier New, monospace",
-    "editor.fontLigatures": false
+    "editor.fontLigatures": false,
+    "editor.formatOnSave": true
 }

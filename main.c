@@ -11,15 +11,15 @@
 #define EVEN_LONGER_NAME (2)
 #define foo(x)           (x * x)
 #define bar(y, z)        (y + z)
-void formatted_code;
+void formatted_code();
 // clang-format off
-        void    unformatted_code;
+            void    unformatted_code();
 // clang-format on
 
 typedef struct
 {
     int a : 1;
-} A;
+} tA;
 
 int main()
 {
@@ -44,11 +44,4 @@ int main()
     }
     printf("Hi\n");
     return 0;
-}
-
-void font()
-{
-    if (a == b)
-        if (a >= b)
-            a != b a = > b
 }
