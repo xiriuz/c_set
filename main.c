@@ -13,7 +13,7 @@
 #define bar(y, z)        (y + z)
 void formatted_code();
 // clang-format off
-            void    unformatted_code();
+                    void    unformatted_code();
 // clang-format on
 
 typedef struct
@@ -23,6 +23,7 @@ typedef struct
 
 int main()
 {
+    int   efg;
     int * c;
     int   a     = 0;
     float b[10] = 0;
